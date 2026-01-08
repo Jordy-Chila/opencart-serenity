@@ -1,0 +1,25 @@
+CONCLUSIONES – PRUEBA E2E OPENCART
+
+Durante la implementación de esta prueba E2E se logró automatizar
+satisfactoriamente el flujo principal de compra como invitado en la
+plataforma OpenCart, validando el comportamiento funcional esperado
+desde la selección de productos hasta la confirmación final de la orden.
+
+La automatización permitió identificar y validar que el proceso de
+checkout funciona correctamente sin necesidad de autenticación previa,
+lo cual representa un caso de uso crítico para cualquier tienda en línea.
+
+El uso de Serenity BDD facilitó la generación de reportes claros y
+detallados, proporcionando visibilidad tanto técnica como funcional
+del comportamiento del sistema, incluyendo evidencias visuales de cada
+paso ejecutado.
+
+Durante el desarrollo se evidenció la importancia de una correcta
+configuración del entorno (versiones de Java, Maven y dependencias),
+así como la alineación entre Serenity y Cucumber para evitar conflictos
+de compatibilidad.
+
+Finalmente, esta prueba demuestra cómo una automatización E2E bien
+estructurada contribuye a asegurar la calidad del producto, reduce el
+riesgo de regresiones en flujos críticos y sirve como documentación viva
+del comportamiento esperado del sistema.
